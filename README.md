@@ -2,6 +2,7 @@
 
 ### Technologies
 
+- scikit-learn
 - Matplotlib
 - Pandas
 - Seaborn
